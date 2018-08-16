@@ -1,0 +1,9 @@
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\bin\Debug\Cipher.exe.config
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\bin\Debug\Cipher.exe
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\bin\Debug\Cipher.pdb
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\obj\Debug\Cipher.Cipher.resources
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\obj\Debug\Cipher.Properties.Resources.resources
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\obj\Debug\Cipher.csproj.GenerateResource.Cache
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\obj\Debug\Cipher.csproj.CoreCompileInputs.cache
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\obj\Debug\Cipher.exe
+C:\Users\William Burchett\Desktop\C#Practice\Cipher\Cipher\obj\Debug\Cipher.pdb
